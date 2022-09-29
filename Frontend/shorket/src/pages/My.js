@@ -29,6 +29,13 @@ const count = 3;
 const fakeDataUrl = `https://randomuser.me/api/?results=${count}&inc=name,gender,email,nat,picture&noinfo`;
 
 export const Summary = ({ userData }) => {
+    // const [data, setData] = useState([]);
+    useEffect(() => {
+        console.log("Summary");
+        // setData(userData);
+        console.log(userData);
+    }, []);
+
     return (
         <>
             <Profile userData={userData} />
@@ -59,7 +66,7 @@ const MyPage = () => {
         const getUser = async () => {
             try {
                 const response = await axiosPrivate.get("/users/");
-                console.log(response);
+                // console.log(response);
                 setMyData(response.data);
             } catch (err) {
                 console.log(err?.response);
