@@ -46,10 +46,10 @@
 ## Contributors
 
 박지윤 [@PrimWILL](https://github.com/PrimWILL) : Lead, Infra, Backend  
-김동은 : Frontend  
-김태윤 [@Chokoty](https://github.com/Chokoty) : Frontend  
-우다현 [@DahyeonWoo](https://github.com/DahyeonWoo) : Backend  
+우다현 [@DahyeonWoo](https://github.com/DahyeonWoo) : Infra, Backend  
 정재욱 [@Wo-ogie](https://github.com/Wo-ogie) : Backend  
+김동은 [@DongExxn](https://github.com/DongExxn): Frontend  
+김태윤 [@Chokoty](https://github.com/Chokoty) : Frontend  
 
 ## Architecture
 
