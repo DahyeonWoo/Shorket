@@ -13,7 +13,6 @@
   <a href="#license">License</a>
 </p>
 <p align="center">
-    Shorket은 미디어프로젝트 과목의 결과물입니다.
     <br/>
     상업적 목적을 띄고 있지 않으며, 팀 <b>솔미솔솔솔</b>에 의해 개발되었습니다.
 </p>
